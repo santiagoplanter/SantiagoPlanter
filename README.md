@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Welcome to My GitHub Profile
 
-<!--
-**santiagoplanter/SantiagoPlanter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there! I'm Santiago Planter, a passionate professional focused on RPAs, DPAs, PowerBI, and data project management. I specialize in SQL and Python.
 
-Here are some ideas to get you started:
+## 🧑‍💼 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I have experience in:
+- 🤖 Developing and managing RPA and DPA projects
+- 📊 Data analysis and visualization using PowerBI
+- 🛠️ Efficiently managing data projects to achieve business goals
+
+## 🛠️ Skills
+
+- **Languages:** SQL, Python
+- **Tools:** PowerBI, Power Automate
+  
+## 🌐 Connect with Me
+
+Feel free to connect with me on LinkedIn to discuss potential collaborations or opportunities.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/santiagoramirezplanter])
+
+## 📧 Contact
+
+You can reach me via email: santiagoplanter@gmail.com
+
+
